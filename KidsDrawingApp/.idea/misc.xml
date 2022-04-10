@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/android/Kids-Drwaing-App/KidsDrawingApp/app/src/main/res/drawable/background_drawing_view_layout.xml" value="0.21" />
+        <entry key="..\:/android/Kids-Drwaing-App/KidsDrawingApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.242" />
+        <entry key="..\:/android/Kids-Drwaing-App/KidsDrawingApp/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
         <entry key="..\:/android/KidsDrawingApp/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
       </map>
     </option>
