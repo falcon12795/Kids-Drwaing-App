@@ -5,7 +5,13 @@
       <map>
         <entry key="..\:/android/Kids-Drwaing-App/KidsDrawingApp/app/src/main/res/drawable/background_drawing_view_layout.xml" value="0.21" />
         <entry key="..\:/android/Kids-Drwaing-App/KidsDrawingApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.242" />
-        <entry key="..\:/android/Kids-Drwaing-App/KidsDrawingApp/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/android/Kids-Drwaing-App/KidsDrawingApp/app/src/main/res/drawable/large.xml" value="0.1" />
+        <entry key="..\:/android/Kids-Drwaing-App/KidsDrawingApp/app/src/main/res/drawable/medium.xml" value="0.1" />
+        <entry key="..\:/android/Kids-Drwaing-App/KidsDrawingApp/app/src/main/res/drawable/pallet_normal.xml" value="0.1765" />
+        <entry key="..\:/android/Kids-Drwaing-App/KidsDrawingApp/app/src/main/res/drawable/pallet_pressed.xml" value="0.1765" />
+        <entry key="..\:/android/Kids-Drwaing-App/KidsDrawingApp/app/src/main/res/drawable/small.xml" value="0.1" />
+        <entry key="..\:/android/Kids-Drwaing-App/KidsDrawingApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/android/Kids-Drwaing-App/KidsDrawingApp/app/src/main/res/layout/dialog_brush_size.xml" value="0.18697916666666667" />
         <entry key="..\:/android/KidsDrawingApp/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
       </map>
     </option>
